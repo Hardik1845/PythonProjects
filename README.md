@@ -1,3 +1,3 @@
-Title --> Python Projects
+Python Projects
 <br>
 Author --> Hardik Aggarwal
